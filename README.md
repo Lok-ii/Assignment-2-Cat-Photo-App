@@ -13,8 +13,10 @@ In this first screenshot :-
     
     
 ![Screenshot 2023-07-29 183452](https://github.com/Lok-ii/Assignment-2-Cat-Photo-App/assets/129180844/6547d8fb-96e1-4513-a957-a2918d7a7025)
+![Screenshot 2023-08-08 171145](https://github.com/Lok-ii/Assignment-2-Cat-Photo-App/assets/129180844/fc0c8ed5-dcb5-4ecf-bd98-640a39e9d2b2)
+![Screenshot 2023-08-08 171202](https://github.com/Lok-ii/Assignment-2-Cat-Photo-App/assets/129180844/6557fa60-dbb7-4865-9ce3-a36de26b97ff)
 
-In this second screenshot :-
+In these screenshot :-
 
     <body> element contains the visible content of the HTML document, including headings, paragraphs, images, hyperlinks, etc.
 
@@ -39,6 +41,7 @@ In this second screenshot :-
     After that one sentence is using <p> tag and <strong> tag is also used to make the text inside it important.
 
 ![Screenshot 2023-07-29 190344](https://github.com/Lok-ii/Assignment-2-Cat-Photo-App/assets/129180844/5e8115be-1078-46c8-adf4-89b03951e7bd)
+![Screenshot 2023-08-08 171219](https://github.com/Lok-ii/Assignment-2-Cat-Photo-App/assets/129180844/cdb21f5b-2ec4-4382-a198-da29d34f54d9)
 
 In this screenshot :-
 
@@ -57,6 +60,7 @@ In this screenshot :-
               Rowspan: Specifies the number of rows a cell should span.
 
 ![Screenshot 2023-07-29 183516](https://github.com/Lok-ii/Assignment-2-Cat-Photo-App/assets/129180844/c0ac58b7-0db1-4eee-81d0-8542c35a4653)
+![Screenshot 2023-08-08 171228](https://github.com/Lok-ii/Assignment-2-Cat-Photo-App/assets/129180844/f89a6697-c9ed-4a53-9fd2-20063f2b2717)
 
 In this last screenshot :-
 
